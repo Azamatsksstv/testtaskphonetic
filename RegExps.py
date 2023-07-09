@@ -37,7 +37,7 @@ def find_dates_in_format_dd_mm_yyyy(text):
     return re.findall(pattern, text)
 
 
-text1 = "example@example.com"
+text1 = "aza@gmail.com"
 text2 = 'sf mkgmerg ngjtrng sjgnrejs gjnerngs gsssgknrl Ssnjgwkn gs segekgnr Ssewfew fwer sgsdgdss'
 text3 = 'hireug 156 gruigjoer6 6262 uigjrneog, 5152 greogmerl 26262 265'
 text4 = "Да, конечно"
